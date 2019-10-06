@@ -4,7 +4,7 @@ First Cat Website is a web app that was posted by Make School to help beginners 
 
 Submitted by: Eileen Buenaflor
 
-Time spent: 2 hours spent in total
+Time spent: 1 hour spent in total
 
 ## User Stories
 
@@ -39,7 +39,7 @@ Not many difficulties or challenges to note.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Eileen Buenaflor
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
