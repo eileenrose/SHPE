@@ -1,4 +1,4 @@
-# Unit # - First Cat Website
+# Unit 0 - First Cat Website
 
 First Cat Website is a web app that was posted by Make School to help beginners learn to use Bootstrap, HTML, and CSS.
 
@@ -31,11 +31,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EzGif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not many difficulties or challenges to note.
 
 ## License
 
