@@ -35,7 +35,7 @@ GIF created with [EzGif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
-Not many difficulties or challenges to note.
+Not many difficulties or challenges to note. Already knew how to use HTML, CSS, and Bootstrap.
 
 ## License
 
