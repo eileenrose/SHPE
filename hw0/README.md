@@ -1,6 +1,6 @@
 # Unit 0 - First Cat Website
 
-First Cat Website is a web app that was posted by Make School to help beginners learn to use Bootstrap, HTML, and CSS.
+First Cat Website is a tutorial that was posted by Make School to help beginners learn to use Bootstrap, HTML, and CSS.
 
 Submitted by: Eileen Buenaflor
 
